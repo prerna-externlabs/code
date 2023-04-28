@@ -31,10 +31,10 @@
                     <?php echo form_error('email');?>
                 </div>
 
-                <!-- <div class="form-group">
+                <div class="form-group">
                     <label>Upload file</label>
                     <input type="file" name="image" id="image" class="form-control">
-                </div> -->
+                </div>
 
                 <div class="form-group">
                     <button class="btn btn-primary">Create</button>
